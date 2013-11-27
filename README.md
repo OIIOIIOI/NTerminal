@@ -13,3 +13,5 @@ Available commands:
 
 OpenFL project, but only tested for the Flash platform.
 You'll need to copy the Nuggeta API files in the src-nuggeta folder.
+
+Demo here: http://01101101.fr/NTerminal/
