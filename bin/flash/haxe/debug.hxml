@@ -1,0 +1,14 @@
+-main ApplicationMain 
+-lib openfl
+-cp src
+-cp src-nuggeta
+-D tools=1.1.6
+-D openfl=1.1
+-D web
+-swf-version 11.2
+-swf bin/flash/bin/NTerminal.swf
+-swf-header 800:480:60:000000
+-cp bin/flash/haxe
+#--remap nme:flash
+--no-inline
+-debug
